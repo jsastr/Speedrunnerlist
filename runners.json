@@ -69,7 +69,7 @@
     "cam": 95, 
     "device": "PC", 
     "youtube": "https://www.youtube.com/@larcanic660", 
-    "region": "N/A" 
+    "region": "EU" 
   }, 
     { 
     "id": "199206011", 
@@ -93,7 +93,7 @@
     "cam": 93, 
     "device": "PC", 
     "youtube": "https://www.youtube.com/@imranZXD", 
-    "region": "EU" 
+    "region": "N/A" 
   }, 
   { 
     "id": "1642106738", 
@@ -189,7 +189,7 @@
     "cam": 85, 
     "device": "PC", 
     "youtube" : "https://www.youtube.com/@vaedsi", 
-    "region": "OC" 
+    "region": "N/A" 
   }, 
 { 
     "id": "7176226681", 
@@ -236,6 +236,6 @@
     "consistency": 81, 
     "cam": 81, 
     "device": "PC", 
-    "region": "EU" 
+    "region": "N/A" 
   } 
 ] 
