@@ -177,7 +177,7 @@
     "consistency": 86,
     "cam": 86,
     "device": "PC",
-    "https://www.youtube.com/@1mlwys",
+    "youtube" : "https://www.youtube.com/@1mlwys",
     "region": "OC"
  },
   {
@@ -189,7 +189,7 @@
     "consistency": 85,
     "cam": 52,
     "device": "PC",
-    "https://www.youtube.com/@vaedsi",
+    "youtube" : "https://www.youtube.com/@vaedsi",
     "region": "OC"
   },
  {
@@ -238,6 +238,5 @@
     "cam": 81,
     "device": "PC",
     "region": "EU"
-  },
+  }
 ]
-  
