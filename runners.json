@@ -258,7 +258,7 @@
     "consistency": 79, 
     "cam": 79, 
     "device": "PC", 
-    "youtube" : "https://www.youtube.com/@dashcateram"
+    "youtube" : "https://www.youtube.com/@dashcateram",
     "region": "NA" 
   },
      { 
@@ -281,7 +281,7 @@
     "consistency": 77, 
     "cam": 77, 
     "device": "PC", 
-    "youtube" : "https://www.youtube.com/@talyxl9830"
+    "youtube" : "https://www.youtube.com/@talyxl9830",
     "region": "N/A" 
   },
      { 
@@ -293,10 +293,10 @@
     "consistency": 76, 
     "cam": 76, 
     "device": "PC", 
-    "youtube" : "https://www.youtube.com/@1panjm1"
+    "youtube" : "https://www.youtube.com/@1panjm1",
     "region": "EU" 
   },
-      { 
+    { 
     "id": "2008226372", 
     "name": "artemrusovich2011", 
     "display": "NulI", 
@@ -305,7 +305,7 @@
     "consistency": 75, 
     "cam": 75, 
     "device": "PC", 
-    "youtube" : "https://www.youtube.com/@skiledartem3256"
+    "youtube" : "https://www.youtube.com/@skiledartem3256",
     "region": "EU" 
   }
 ] 
