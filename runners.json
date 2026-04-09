@@ -237,5 +237,75 @@
     "cam": 81, 
     "device": "PC", 
     "region": "N/A" 
-  } 
+  },
+     { 
+    "id": "3152037945", 
+    "name": "zGamerSkilled", 
+    "display": "holanenes", 
+    "bounce": 80, 
+    "cc": 80, 
+    "consistency": 80, 
+    "cam": 80, 
+    "device": "PC", 
+    "region": "N/A" 
+  },
+     { 
+    "id": "1038034507", 
+    "name": "dashcateram", 
+    "display": "dashcateram", 
+    "bounce": 79, 
+    "cc": 79, 
+    "consistency": 79, 
+    "cam": 79, 
+    "device": "PC", 
+    "youtube" : "https://www.youtube.com/@dashcateram"
+    "region": "NA" 
+  },
+     { 
+    "id": "1849007030", 
+    "name": "DontOneLove", 
+    "display": "froy", 
+    "bounce": 78, 
+    "cc": 78, 
+    "consistency": 78, 
+    "cam": 78, 
+    "device": "PC", 
+    "region": "N/A" 
+  },
+     { 
+    "id": "1081413185", 
+    "name": "Talyxl", 
+    "display": "tal", 
+    "bounce": 77, 
+    "cc": 77, 
+    "consistency": 77, 
+    "cam": 77, 
+    "device": "PC", 
+    "youtube" : "https://www.youtube.com/@talyxl9830"
+    "region": "N/A" 
+  },
+     { 
+    "id": "1424955992", 
+    "name": "1panjm1", 
+    "display": "Random", 
+    "bounce": 76, 
+    "cc": 76, 
+    "consistency": 76, 
+    "cam": 76, 
+    "device": "PC", 
+    "youtube" : "https://www.youtube.com/@1panjm1"
+    "region": "EU" 
+  },
+      { 
+    "id": "2008226372", 
+    "name": "artemrusovich2011", 
+    "display": "NulI", 
+    "bounce": 75, 
+    "cc": 75, 
+    "consistency": 75, 
+    "cam": 75, 
+    "device": "PC", 
+    "youtube" : "https://www.youtube.com/@skiledartem3256"
+    "region": "EU" 
+  }
 ] 
