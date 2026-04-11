@@ -248,51 +248,64 @@
     "youtube" : "https://www.youtube.com/@skiledartem3256",
     "region": "EU" 
   },
-      { 
-    "id": "3008364831", 
-    "name": "Faxotic", 
-    "display": "fxtc", 
+         { 
+    "id": "1849007030", 
+    "name": "DontOneLove", 
+    "display": "froy", 
     "bounce": 79, 
     "cc": 79, 
     "consistency": 79, 
     "cam": 79, 
     "device": "PC", 
-    "youtube": "https://www.youtube.com/@fxtc", 
-    "region": "EU" 
-  }, 
-       { 
-    "id": "1424955992", 
-    "name": "1panjm1", 
-    "display": "Random", 
+    "youtube" : "https://www.youtube.com/@froybetter",
+    "region": "N/A" 
+  },
+      { 
+    "id": "3008364831", 
+    "name": "Faxotic", 
+    "display": "fxtc", 
     "bounce": 78, 
     "cc": 78, 
     "consistency": 78, 
     "cam": 78, 
     "device": "PC", 
-    "youtube" : "https://www.youtube.com/@1panjm1",
+    "youtube": "https://www.youtube.com/@fxtc", 
     "region": "EU" 
-  },
+  }, 
        { 
-    "id": "1849007030", 
-    "name": "DontOneLove", 
-    "display": "froy", 
+    "id": "1038034507", 
+    "name": "dashcateram", 
+    "display": "dashcateram", 
     "bounce": 77, 
     "cc": 77, 
     "consistency": 77, 
     "cam": 77, 
     "device": "PC", 
-    "region": "N/A" 
+    "youtube" : "https://www.youtube.com/@dashcateram",
+    "region": "NA" 
   },
-     { 
-    "id": "1038034507", 
-    "name": "dashcateram", 
-    "display": "dashcateram", 
+       { 
+    "id": "906263543", 
+    "name": "pokeymaster02", 
+    "display": "pokeymaster02", 
     "bounce": 76, 
     "cc": 76, 
     "consistency": 76, 
     "cam": 76, 
     "device": "PC", 
-    "youtube" : "https://www.youtube.com/@dashcateram",
+    "youtube" : "https://www.youtube.com/@PokeySpeedruns_23",
     "region": "NA" 
+  },
+       { 
+    "id": "1424955992", 
+    "name": "1panjm1", 
+    "display": "Random", 
+    "bounce": 75, 
+    "cc": 75, 
+    "consistency": 75, 
+    "cam": 75, 
+    "device": "PC", 
+    "youtube" : "https://www.youtube.com/@1panjm1",
+    "region": "EU" 
   }
 ] 
