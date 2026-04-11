@@ -108,27 +108,27 @@
     "region": "N/A" 
   }, 
    { 
-    "id": "222605413", 
-    "name": "ILLUMlNIZE", 
-    "display": "Egg1", 
+    "id": "669007006", 
+    "name": "ThePersonYouMetNow", 
+    "display": "chill", 
     "bounce": 91, 
     "cc": 91, 
     "consistency": 91, 
     "cam": 91, 
     "device": "PC", 
-    "youtube": "https://www.youtube.com/@Illuminize", 
-    "region": "NA" 
+    "youtube": "https://www.youtube.com/@TPYMN", 
+    "region": "EU" 
   }, 
-   { 
-    "id": "669007006", 
-    "name": "ThePersonYouMetNow", 
-    "display": "chill", 
+     { 
+    "id": "8500429930", 
+    "name": "zw6rts", 
+    "display": "zw6", 
     "bounce": 90, 
     "cc": 90, 
     "consistency": 90, 
     "cam": 90, 
     "device": "PC", 
-    "youtube": "https://www.youtube.com/@TPYMN", 
+    "youtube": "https://www.youtube.com/@zw6rtss", 
     "region": "EU" 
   }, 
    { 
@@ -142,18 +142,18 @@
     "device": "PC", 
     "youtube": "https://www.youtube.com/@ecotism", 
     "region": "EU" 
-  }, 
-   { 
-    "id": "8500429930", 
-    "name": "zw6rts", 
-    "display": "zw6", 
+  },
+    { 
+    "id": "222605413", 
+    "name": "ILLUMlNIZE", 
+    "display": "Egg1", 
     "bounce": 88, 
     "cc": 88, 
     "consistency": 88, 
     "cam": 88, 
     "device": "PC", 
-    "youtube": "https://www.youtube.com/@zw6rtss", 
-    "region": "EU" 
+    "youtube": "https://www.youtube.com/@Illuminize", 
+    "region": "NA" 
   }, 
     { 
     "id": "1032501019", 
