@@ -11,7 +11,7 @@
     "youtube": "https://www.youtube.com/@yoqopx9902", 
     "region": "OC" 
   }, 
-  { 
+   { 
     "id": "213743994", 
     "name": "jorma28", 
     "display": "Space_Walrus1562", 
@@ -23,7 +23,7 @@
     "youtube": "https://www.youtube.com/@jormaspeedruns6507", 
     "region": "EU" 
   }, 
-   { 
+    { 
     "id": "2014093676", 
     "name": "imverygodatobbies", 
     "display": "Egg2", 
@@ -35,7 +35,7 @@
     "youtube": "https://www.youtube.com/@imverygodatobbies", 
     "region": "NA" 
   }, 
-   { 
+    { 
     "id": "436409154", 
     "name": "RainbowTexturePack", 
     "display": "RainbowTexturePack", 
@@ -47,7 +47,7 @@
     "youtube": "https://www.youtube.com/channel/UCvioY9B_4qtTkUvgP6dPJpQ", 
     "region": "NA" 
   }, 
-   { 
+    { 
     "id": "1173085622", 
     "name": "SanderKingofRoblox", 
     "display": "Sander", 
@@ -70,7 +70,8 @@
     "device": "PC", 
     "youtube": "https://www.youtube.com/@larcanic660", 
     "region": "EU" 
-  },  { 
+  }, 
+    { 
     "id": "669007006", 
     "name": "ThePersonYouMetNow", 
     "display": "chill", 
@@ -82,7 +83,7 @@
     "youtube": "https://www.youtube.com/@TPYMN", 
     "region": "EU" 
   }, 
-       { 
+     { 
     "id": "8500429930", 
     "name": "zw6rts", 
     "display": "zw6", 
@@ -295,8 +296,8 @@
     "device": "PC", 
     "youtube" : "https://www.youtube.com/@1panjm1",
     "region": "EU" 
-      },
-       { 
+  },
+      { 
     "id": "906263543", 
     "name": "pokeymaster02", 
     "display": "pokeymaster02", 
