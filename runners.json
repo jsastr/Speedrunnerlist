@@ -295,7 +295,7 @@
     "device": "PC", 
     "youtube" : "https://www.youtube.com/@1panjm1",
     "region": "EU" 
-  }
+      },
        { 
     "id": "906263543", 
     "name": "pokeymaster02", 
@@ -464,7 +464,7 @@
     "youtube" : "https://www.youtube.com/@meproateverything",
     "region": "N/A" 
   },
-        { 
+      { 
     "id": "5282615036", 
     "name": "Biiegn", 
     "display": "yarizard", 
