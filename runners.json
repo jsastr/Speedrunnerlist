@@ -83,28 +83,28 @@
     "youtube": "https://www.youtube.com/@TPYMN", 
     "region": "EU" 
   }, 
-     { 
-    "id": "8500429930", 
-    "name": "zw6rts", 
-    "display": "zw6", 
+  { 
+    "id": "780330633", 
+    "name": "imranZXD", 
+    "display": "imranZXD", 
     "bounce": 93, 
     "cc": 93, 
     "consistency": 93, 
     "cam": 93, 
     "device": "PC", 
-    "youtube": "https://www.youtube.com/@zw6rtss", 
+    "youtube": "https://www.youtube.com/@imranZXD", 
     "region": "EU" 
   }, 
-   { 
-    "id": "780330633", 
-    "name": "imranZXD", 
-    "display": "imranZXD", 
+     { 
+    "id": "8500429930", 
+    "name": "zw6rts", 
+    "display": "zw6", 
     "bounce": 92, 
     "cc": 92, 
     "consistency": 92, 
     "cam": 92, 
     "device": "PC", 
-    "youtube": "https://www.youtube.com/@imranZXD", 
+    "youtube": "https://www.youtube.com/@zw6rtss", 
     "region": "EU" 
   }, 
    { 
@@ -237,26 +237,14 @@
     "device": "PC", 
     "region": "N/A" 
   },
-      { 
-    "id": "2008226372", 
-    "name": "artemrusovich2011", 
-    "display": "NulI", 
-    "bounce": 80, 
-    "cc": 80, 
-    "consistency": 80, 
-    "cam": 80, 
-    "device": "PC", 
-    "youtube" : "https://www.youtube.com/@skiledartem3256",
-    "region": "EU" 
-  },
          { 
     "id": "1849007030", 
     "name": "DontOneLove", 
     "display": "froy", 
-    "bounce": 79, 
-    "cc": 79, 
-    "consistency": 79, 
-    "cam": 79, 
+    "bounce": 80, 
+    "cc": 80, 
+    "consistency": 80, 
+    "cam": 80, 
     "device": "PC", 
     "youtube" : "https://www.youtube.com/@froybetter",
     "region": "EU" 
@@ -265,10 +253,10 @@
     "id": "3008364831", 
     "name": "Faxotic", 
     "display": "fxtc", 
-    "bounce": 78, 
-    "cc": 78, 
-    "consistency": 78, 
-    "cam": 78, 
+    "bounce": 79, 
+    "cc": 79, 
+    "consistency": 79, 
+    "cam": 79, 
     "device": "PC", 
     "youtube": "https://www.youtube.com/@fxtc", 
     "region": "EU" 
@@ -277,13 +265,25 @@
     "id": "1038034507", 
     "name": "dashcateram", 
     "display": "dashcateram", 
+    "bounce": 78, 
+    "cc": 78, 
+    "consistency": 78, 
+    "cam": 78, 
+    "device": "PC", 
+    "youtube" : "https://www.youtube.com/@dashcateram",
+    "region": "NA" 
+  },
+  { 
+    "id": "2008226372", 
+    "name": "artemrusovich2011", 
+    "display": "NulI", 
     "bounce": 77, 
     "cc": 77, 
     "consistency": 77, 
     "cam": 77, 
     "device": "PC", 
-    "youtube" : "https://www.youtube.com/@dashcateram",
-    "region": "NA" 
+    "youtube" : "https://www.youtube.com/@skiledartem3256",
+    "region": "EU" 
   },
       { 
     "id": "1424955992", 
