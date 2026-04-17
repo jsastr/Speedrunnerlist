@@ -237,7 +237,7 @@
     "device": "PC", 
     "region": "N/A" 
   },
-         { 
+     { 
     "id": "1849007030", 
     "name": "DontOneLove", 
     "display": "froy", 
@@ -273,7 +273,7 @@
     "youtube" : "https://www.youtube.com/@dashcateram",
     "region": "NA" 
   },
-  { 
+     { 
     "id": "2008226372", 
     "name": "artemrusovich2011", 
     "display": "NulI", 
@@ -321,121 +321,145 @@
     "youtube" : "https://www.youtube.com/@TempisLazy",
     "region": "EU" 
   },
-        { 
-    "id": "236289861", 
-    "name": "342865979", 
-    "display": "BlazingMarshmallow", 
+    { 
+    "id": "4406801442", 
+    "name": "epizur", 
+    "display": "epizur", 
     "bounce": 73, 
     "cc": 73, 
     "consistency": 73, 
     "cam": 73, 
     "device": "PC", 
-    "youtube" : "https://www.youtube.com/@BlazingMarshmallow",
+    "youtube" : "https://www.youtube.com/@%E0%B8%9C%E0%B8%B9%E0%B9%89",
+    "region": "EU" 
+  },
+     { 
+    "id": "651120125", 
+    "name": "hackmenotplease", 
+    "display": "hack", 
+    "bounce": 72, 
+    "cc": 72, 
+    "consistency": 72, 
+    "cam": 72, 
+    "device": "Mobile", 
+    "youtube" : "https://www.youtube.com/@hackmenotplease",
+    "region": "N/A" 
+  },
+     { 
+    "id": "10174513064", 
+    "name": "ecoxit012", 
+    "display": "210tixoce", 
+    "bounce": 71, 
+    "cc": 71, 
+    "consistency": 71, 
+    "cam": 71, 
+    "device": "PC", 
+    "youtube" : "https://www.youtube.com/@UnbeatableGodhehe",
+    "region": "EU" 
+  },
+    { 
+    "id": "1374532493", 
+    "name": "secondmushroom", 
+    "display": "secondmushroom", 
+    "bounce": 70, 
+    "cc": 70, 
+    "consistency": 70, 
+    "cam": 70, 
+    "device": "PC", 
+    "youtube" : "https://www.youtube.com/@secondmushroom",
+    "region": "NA" 
+  },
+    { 
+    "id": "1996771875", 
+    "name": "fwampire", 
+    "display": "kian", 
+    "bounce": 69, 
+    "cc": 69, 
+    "consistency": 69, 
+    "cam": 69, 
+    "device": "Mobile", 
+    "region": "N/A" 
+  },
+    { 
+    "id": "1535837625", 
+    "name": "bonbonsteve", 
+    "display": "Egg8", 
+    "bounce": 68, 
+    "cc": 68, 
+    "consistency": 68, 
+    "cam": 68, 
+    "device": "PC", 
+    "youtube" : "https://www.youtube.com/@Bonbonsteve08",
+    "region": "N/A" 
+  },
+   { 
+    "id": "1835923130", 
+    "name": "preyforpreyforsteven", 
+    "display": "Obby", 
+    "bounce": 67, 
+    "cc": 67, 
+    "consistency": 67, 
+    "cam": 67, 
+    "device": "Mobile", 
+    "youtube" : "https://www.youtube.com/@preyforpreyforsteven508",
+    "region": "N/A" 
+  },
+   { 
+    "id": "1081413185", 
+    "name": "Talyxl", 
+    "display": "tal", 
+    "bounce": 66, 
+    "cc": 66, 
+    "consistency": 66, 
+    "cam": 66, 
+    "device": "PC", 
+    "youtube" : "https://www.youtube.com/@talyxl9830",
+    "region": "NA" 
+  },
+    { 
+    "id": "1635051558", 
+    "name": "Nixxci", 
+    "display": "Nixxci", 
+    "bounce": 65, 
+    "cc": 65, 
+    "consistency": 65, 
+    "cam": 65, 
+    "device": "Mobile", 
+    "youtube" : "https://www.youtube.com/@NickSpeedruns",
     "region": "NA" 
   },
        { 
     "id": "669221669", 
     "name": "CarbonMattress", 
     "display": "yes", 
-    "bounce": 72, 
-    "cc": 72, 
-    "consistency": 72, 
-    "cam": 72, 
-    "device": "PC", 
-    "youtube" : "https://www.youtube.com/@carbmattress",
-    "region": "NA" 
-  },
-       { 
-    "id": "4406801442", 
-    "name": "epizur", 
-    "display": "epizur", 
-    "bounce": 71, 
-    "cc": 71, 
-    "consistency": 71, 
-    "cam": 71, 
-    "device": "PC", 
-    "youtube" : "https://www.youtube.com/@%E0%B8%9C%E0%B8%B9%E0%B9%89",
-    "region": "EU" 
-  },
-       { 
-    "id": "651120125", 
-    "name": "hackmenotplease", 
-    "display": "hack", 
-    "bounce": 70, 
-    "cc": 70, 
-    "consistency": 70, 
-    "cam": 70, 
-    "device": "Mobile", 
-    "youtube" : "https://www.youtube.com/@hackmenotplease",
-    "region": "N/A" 
-  },
-        { 
-    "id": "1635051558", 
-    "name": "Nixxci", 
-    "display": "Nixxci", 
-    "bounce": 69, 
-    "cc": 69, 
-    "consistency": 69, 
-    "cam": 69, 
-    "device": "Mobile", 
-    "youtube" : "https://www.youtube.com/@NickSpeedruns",
-    "region": "NA" 
-  },
-      { 
-    "id": "1374532493", 
-    "name": "secondmushroom", 
-    "display": "secondmushroom", 
-    "bounce": 68, 
-    "cc": 68, 
-    "consistency": 68, 
-    "cam": 68, 
-    "device": "PC", 
-    "youtube" : "https://www.youtube.com/@secondmushroom",
-    "region": "NA" 
-  },
-      { 
-    "id": "10174513064", 
-    "name": "ecoxit012", 
-    "display": "210tixoce", 
-    "bounce": 67, 
-    "cc": 67, 
-    "consistency": 67, 
-    "cam": 67, 
-    "device": "PC", 
-    "youtube" : "https://www.youtube.com/@UnbeatableGodhehe",
-    "region": "EU" 
-  },
-   { 
-    "id": "1996771875", 
-    "name": "fwampire", 
-    "display": "kian", 
-    "bounce": 66, 
-    "cc": 66, 
-    "consistency": 66, 
-    "cam": 66, 
-    "device": "Mobile", 
-    "region": "N/A" 
-  },
-      { 
-    "id": "1081413185", 
-    "name": "Talyxl", 
-    "display": "tal", 
-    "bounce": 65, 
-    "cc": 65, 
-    "consistency": 65, 
-    "cam": 65, 
-    "device": "PC", 
-    "youtube" : "https://www.youtube.com/@talyxl9830",
-    "region": "NA" 
-  },
-   { 
-    "id": "3842417024", 
-    "name": "StupidGuysAreALR", 
-    "display": "Sgaa", 
     "bounce": 64, 
     "cc": 64, 
     "consistency": 64, 
     "cam": 64, 
+    "device": "PC", 
+    "youtube" : "https://www.youtube.com/@carbmattress",
+    "region": "NA" 
+  },
+    { 
+    "id": "236289861", 
+    "name": "342865979", 
+    "display": "BlazingMarshmallow", 
+    "bounce": 63, 
+    "cc": 63, 
+    "consistency": 63, 
+    "cam": 63, 
+    "device": "PC", 
+    "youtube" : "https://www.youtube.com/@BlazingMarshmallow",
+    "region": "NA" 
+  },
+    { 
+    "id": "3842417024", 
+    "name": "StupidGuysAreALR", 
+    "display": "Sgaa", 
+    "bounce": 62, 
+    "cc": 62, 
+    "consistency": 62, 
+    "cam": 62, 
     "device": "PC", 
     "youtube" : "https://www.youtube.com/@Jsastr",
     "region": "EU" 
@@ -444,10 +468,10 @@
     "id": "7085853583", 
     "name": "iamwhoiam_g", 
     "display": "iam", 
-    "bounce": 63, 
-    "cc": 63, 
-    "consistency": 63, 
-    "cam": 63, 
+    "bounce": 61, 
+    "cc": 61, 
+    "consistency": 61, 
+    "cam": 61, 
     "device": "PC", 
     "youtube" : "https://www.youtube.com/@iamwhoiam_g",
     "region": "EU" 
@@ -456,36 +480,13 @@
     "id": "3926890294", 
     "name": "q0vick", 
     "display": "j3str", 
-    "bounce": 62, 
-    "cc": 62, 
-    "consistency": 62, 
-    "cam": 62, 
-    "device": "PC", 
-    "youtube" : "https://www.youtube.com/@q0vick",
-    "region": "EU" 
-  },
-      { 
-    "id": "183056632", 
-    "name": "8UDDZ", 
-    "display": "8UDDZ", 
-    "bounce": 61, 
-    "cc": 61, 
-    "consistency": 61, 
-    "cam": 61, 
-    "device": "Mobile", 
-    "region": "N/A" 
-  },
-    { 
-    "id": "3444320685", 
-    "name": "MeProAtEverything5", 
-    "display": "mepro", 
     "bounce": 60, 
     "cc": 60, 
     "consistency": 60, 
     "cam": 60, 
-    "device": "Mobile", 
-    "youtube" : "https://www.youtube.com/@meproateverything",
-    "region": "AS" 
+    "device": "PC", 
+    "youtube" : "https://www.youtube.com/@q0vick",
+    "region": "EU" 
   },
     { 
     "id": "4422858511", 
@@ -499,14 +500,49 @@
     "youtube" : "https://www.youtube.com/@vTwxsty",
     "region": "N/A" 
   },
-      { 
-    "id": "5282615036", 
-    "name": "Billolucko3", 
-    "display": "UCS_Bill", 
+    { 
+    "id": "770003599", 
+    "name": "somberkidd", 
+    "display": "katheilo", 
     "bounce": 58, 
     "cc": 58, 
     "consistency": 58, 
     "cam": 58, 
+    "device": "Mobile", 
+    "region": "N/A" 
+  },
+    { 
+    "id": "787202426", 
+    "name": "OThunderie", 
+    "display": "Thunder", 
+    "bounce": 57, 
+    "cc": 57, 
+    "consistency": 57, 
+    "cam": 57, 
+    "device": "PC", 
+    "youtube" : "https://www.youtube.com/@othunderie8941",
+    "region": "N/A" 
+  },
+    { 
+    "id": "3444320685", 
+    "name": "MeProAtEverything5", 
+    "display": "mepro", 
+    "bounce": 56, 
+    "cc": 56, 
+    "consistency": 56, 
+    "cam": 56, 
+    "device": "Mobile", 
+    "youtube" : "https://www.youtube.com/@meproateverything",
+    "region": "AS" 
+  },
+      { 
+    "id": "2688017396", 
+    "name": "Billolucko3", 
+    "display": "UCS_Bill", 
+    "bounce": 55, 
+    "cc": 55, 
+    "consistency": 55, 
+    "cam": 55, 
     "device": "Mobile", 
     "youtube" : "https://www.youtube.com/@Billolucko3",
     "region": "OC" 
@@ -515,48 +551,12 @@
     "id": "5282615036", 
     "name": "Biiegn", 
     "display": "yarizard", 
-    "bounce": 57, 
-    "cc": 57, 
-    "consistency": 57, 
-    "cam": 57, 
-    "device": "Mobile", 
-    "youtube" : "https://www.youtube.com/@bngnen",
-    "region": "N/A" 
-  },
-    { 
-    "id": "4797610353", 
-    "name": "iiBounceyBoy", 
-    "display": "iiBubbles", 
-    "bounce": 56, 
-    "cc": 56, 
-    "consistency": 56, 
-    "cam": 56, 
-    "device": "PC", 
-    "youtube" : "https://www.youtube.com/@iiBouncey",
-    "region": "NA" 
-  },
-    { 
-    "id": "4150507194", 
-    "name": "REDBULL37132", 
-    "display": "MILK", 
-    "bounce": 55, 
-    "cc": 55, 
-    "consistency": 55, 
-    "cam": 55, 
-    "device": "Mobile", 
-    "youtube" : "https://www.youtube.com/@Redbull37132",
-    "region": "N/A" 
-  },
-    { 
-    "id": "770003599", 
-    "name": "somberkidd", 
-    "display": "katheilo", 
     "bounce": 54, 
     "cc": 54, 
     "consistency": 54, 
     "cam": 54, 
     "device": "Mobile", 
-    "youtube" : "https://www.youtube.com/@FrostyXVI",
+    "youtube" : "https://www.youtube.com/@bngnen",
     "region": "N/A" 
   },
     { 
@@ -571,16 +571,16 @@
     "youtube" : "https://www.youtube.com/@FrostyXVI",
     "region": "N/A" 
   },
-   { 
-    "id": "1535837625", 
-    "name": "bonbonsteve", 
-    "display": "Egg8", 
+    { 
+    "id": "4150507194", 
+    "name": "REDBULL37132", 
+    "display": "MILK", 
     "bounce": 52, 
     "cc": 52, 
     "consistency": 52, 
     "cam": 52, 
-    "device": "PC", 
-    "youtube" : "https://www.youtube.com/@Bonbonsteve08",
+    "device": "Mobile", 
+    "youtube" : "https://www.youtube.com/@Redbull37132",
     "region": "N/A" 
   },
    { 
@@ -595,15 +595,4 @@
     "youtube" : "https://www.youtube.com/@ElliotSpeedruns",
     "region": "N/A" 
   },
-    { 
-    "id": "667623426", 
-    "name": "sixzinoo", 
-    "display": "sixz", 
-    "bounce": 50, 
-    "cc": 50, 
-    "consistency": 50, 
-    "cam": 50, 
-    "device": "PC", 
-    "region": "N/A" 
-  }
 ] 
