@@ -224,6 +224,7 @@
     "consistency": 82, 
     "cam": 82, 
     "device": "PC", 
+    "youtube" : "",
     "region": "EU" 
   },
    { 
@@ -235,6 +236,7 @@
     "consistency": 81, 
     "cam": 81, 
     "device": "PC", 
+    "youtube" : "",
     "region": "N/A" 
   },
      { 
@@ -378,6 +380,7 @@
     "consistency": 69, 
     "cam": 69, 
     "device": "Mobile", 
+    "youtube" : "",
     "region": "N/A" 
   },
     { 
@@ -440,7 +443,7 @@
     "youtube" : "https://www.youtube.com/@carbmattress",
     "region": "NA" 
   },
-    { 
+     { 
     "id": "236289861", 
     "name": "342865979", 
     "display": "BlazingMarshmallow", 
@@ -464,7 +467,7 @@
     "youtube" : "https://www.youtube.com/@Jsastr",
     "region": "EU" 
   },
-      { 
+    { 
     "id": "7085853583", 
     "name": "iamwhoiam_g", 
     "display": "iam", 
@@ -509,6 +512,7 @@
     "consistency": 58, 
     "cam": 58, 
     "device": "Mobile", 
+    "youtube" : "",
     "region": "N/A" 
   },
     { 
